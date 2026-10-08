@@ -1,0 +1,27 @@
+{
+  "id": "droidstore-apk-market",
+  "name": "DroidStore - APK & Game Store",
+  "short_name": "DroidStore",
+  "description": "Download and publish verified Android APKs and Games safely.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#01875f",
+  "categories": ["utilities", "games", "productivity"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
